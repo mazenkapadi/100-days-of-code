@@ -1,1 +1,1 @@
-print(len())
+#Day 3
